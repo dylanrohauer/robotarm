@@ -7,6 +7,7 @@
 # Angela Sodemann (YouTuber) - homogenous transfer matricies
 # Matt O'Dell (Calc III Professor) - matricies practice
 # Kira Burt (Physics I & II Professor) - angular motion problems
+# Mark - inverse kinematics
 # Damon Sisk (YouTuber) - motion profiles
 # Stewart Technologies (YouTuber) - motion profiles and joint interpolation
 
